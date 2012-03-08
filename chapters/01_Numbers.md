@@ -139,4 +139,40 @@ You can easily determine if a number in base 10 is divisible by 2 or 5. Base 12 
 There is a tendency by non programmers to think of binary numbers as a literal number system, like counting items with notches. Its not, its a base system. Its frightening how often I encounter this horribly uneducated concept.  
 
 How can we claim to be teaching math, when people can get through school without ever actually understanding what a number is?       
-{{/:rant}}
+{{/:rant}}      
+
+
+# Mental math
+
+# Logarithms  
+
+# Fractions 
+
+Fractions are nothing more than parts of number and as such are really just decimals. 
+
+```
+1
+-
+2 
+```
+
+is equivalent to 0.5. How many times does 2 go into 1? 0.5 times. What the above can be taken to mean is simply 1 divided by 2. Now you know why diagonal lines are often used to represent fractions.
+
+Now you might be wondering why we don't simply use decimals. Well the reason is simple, fractions are typically easier to work with. And when decimals are easier to work with we use them instead. For instance, monies are written in decimal e.g "$2.45". 
+
+To quote the wiki gods: 
+
+`A decimal fraction is a fraction whose denominator is not given explicitly, but is understood to be an integer power of ten.`
+
+{{:note}}    
+What is easier for the majority is not necessarily easier for everyone. Some of maths are confusing & frankly odd. Its the reason why we've groups that for instance, advocate moving to a base 12 system. I personally find fractions intuitive but they're often presented in an unintuitive manner by people that don't conceptualize them very well. Its one of those ironies in the math world that the majority often finds things difficult that minority doesn't and thus everyone is left seriously confused.
+{{:/note}}           
+
+So whats going with our fractions? When we start to realize the inherit relationship of decimals, fractions & division some interesting facets become instantly clear. When we divide by 1/2 we a halving that number, multiply by 1/2.
+
+```
+1
+-
+2 
+```
+
