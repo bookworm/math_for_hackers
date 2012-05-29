@@ -1,3 +1,15 @@
+# Fun with triangles & Haskell
+
+Lets say we have a triangle represented by `(6,8,10)` how do we determine if it is a right angle?
+The hypotenuse is the sqrt of the other sides. `sqrt (6^2 + 8^2)`
+So if we wanted to generate some right triangles in haskell we could do
+
+```haskell
+let rightTriangles = [ (a,b,c) | c <- [1..10], b <- [1..c], a <- [1..b], a^2 + b^2 == c^2]
+```
+
+Notice how we make sure `a` in the tuple ends up the shorter than `b` and `c`.
+
 # Proving Pythagora's Theorem
 
 Most students skip over proving Pythagoras but such an exercise is wonderful for building up ones spatial reasoning.
@@ -48,4 +60,4 @@ category.
 ## Differential Proofs
 
 The connection between the smaller sides and hypo can be proven using calculus. The changes in one side will produce a
-change in the hypotenuse, this ratio can be calculated.
+change in the hypotenuse, this ratio can be calculated.  
