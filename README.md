@@ -30,3 +30,8 @@ as the name is changed.
   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
 
  0. You just DO WHAT THE FUCK YOU WANT TO.
+ 
+## Support
+
+If you found this repo useful please consider supporting me on [Gittip](https://www.gittip.com/k2052) or sending me some
+bitcoin `1csGsaDCFLRPPqugYjX93PEzaStuqXVMu`
